@@ -1,9 +1,11 @@
-import React from 'react'
+import Header from './components/Header'
 
-const App = () => {
+function App() {
   return (
     <>
-      
+      <Header />
+
+      {/* resto do site */}
     </>
   )
 }
